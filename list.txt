@@ -1,0 +1,10 @@
+admin
+login
+images
+config
+backup
+uploads
+index.php
+dashboard
+wp-admin
+test
