@@ -5,6 +5,8 @@
 
 
 | 1. Banner Grabber | ![Win](Cyber-Toolbox-50-Screenshot/banner_grabber_window_.png) | ![Kali](Cyber-Toolbox-50-Screenshot/banner_grabber_kali_screenshot.png) |
+| Tool | Windows Output | Kali Linux Output |
+| :--- | :--- | :--- |
 | 2. Port Scanner | ![Win](Cyber-Toolbox-50-Screenshot/port_scanner_window.png) | ![Kali](Cyber-Toolbox-50-Screenshot/port_scanner_kali.png) |
 | 3. DNS Lookup | ![Win](Cyber-Toolbox-50-Screenshot/dns_lookup_window.png) | ![Kali](Cyber-Toolbox-50-Screenshot/dns_lookup_kali.png) |
 | 4. WHOIS Lookup | ![Win](Cyber-Toolbox-50-Screenshot/whois_lookup_window.png) | ![Kali](Cyber-Toolbox-50-Screenshot/whois_lookup_kali.png) |
