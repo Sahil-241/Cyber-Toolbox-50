@@ -15,7 +15,7 @@ A comprehensive collection of 47 cybersecurity, network reconnaissance, security
 | 7 | CMS Detector | ![Windows Output](Cyber-Toolbox-50-Screenshot/cms_scanner_window.png) | ![Kali Linux Output](Cyber-Toolbox-50-Screenshot/cms_scanner_kaali.png) |
 | 8 | CVE Searcher | ![Windows Output](Cyber-Toolbox-50-Screenshot/cve_searcher_window.png) | ![Kali Linux Output](Cyber-Toolbox-50-Screenshot/cve_searcher_kaali.png) |
 | 9 | Dir Enumerator | ![Windows Output](Cyber-Toolbox-50-Screenshot/dir_enumerator_window.png) | ![Kali Linux Output](Cyber-Toolbox-50-Screenshot/dir_enumerator_kaali.png) |
-| 10 | DNS Enumerator | ![Windows Output](Cyber-Toolbox-50-Screenshot/dns_enumerator_window.png) | ![Kali Linux Output](Cyber-Toolbox-50-Screenshot/dns_enumerator_or_kaali.png) |
+| 10 | DNS Enumerator | ![Windows Output](Cyber-Toolbox-50-Screenshot/dns_enumerator_window.png) | ![Kali Linux Output](Cyber-Toolbox-50-Screenshot/dns_enumerator_kaali.png) |
 | 11 | DNS Lookup | ![Windows Output](Cyber-Toolbox-50-Screenshot/dns_lookup_window.png) | ![Kali Linux Output](Cyber-Toolbox-50-Screenshot/dns_lookup_kaali.png) |
 | 12 | Domain Expiry Monitor | ![Windows Output](Cyber-Toolbox-50-Screenshot/domain_expiry_monitor_window.png) | ![Kali Linux Output](Cyber-Toolbox-50-Screenshot/domain_expiry_monitor_kaali.png) |
 | 13 | Email Header Analyzer | ![Windows Output](Cyber-Toolbox-50-Screenshot/email_header_analyzer_window.png) | ![Kali Linux Output](Cyber-Toolbox-50-Screenshot/email_header_analyzer_kaali.png) |
