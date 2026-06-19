@@ -1,0 +1,13 @@
+========================================
+       SECURITY AUDIT REPORT       
+========================================
+Target Domain/IP: iiceshimla.com
+Report Generated: 2026-06-18 16:20:02
+----------------------------------------
+
+DETAILED FINDINGS:
+1. [!] server is secure
+2. [!] no open ports found
+
+========================================
+End of Report
