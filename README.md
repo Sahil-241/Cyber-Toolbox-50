@@ -32,7 +32,7 @@ A comprehensive collection of 47 cybersecurity, network reconnaissance, security
 | 24 | Network Packet Traffic Sniffer | ![Windows Output](Cyber-Toolbox-50-Screenshot/network_packet_traffic_sniffer_window.png) | ![Kali Linux Output](Cyber-Toolbox-50-Screenshot/network_packet_traffic_sniffer_kaali.png) |
 | 25 | Network Scanner | ![Windows Output](Cyber-Toolbox-50-Screenshot/network_scanner_window.png) | ![Kali Linux Output](Cyber-Toolbox-50-Screenshot/network_scanner_kaali.png) |
 | 26 | Open Port Monitor | ![Windows Output](Cyber-Toolbox-50-Screenshot/open_port_monitor_window.png) | ![Kali Linux Output](Cyber-Toolbox-50-Screenshot/open_port_monitor_kaali.png) |
-| 27 | OSINT Info Gatherer | ![Windows Output](Cyber-Toolbox-50-Screenshot/osint_info_gaterer_window.png) | ![Kali Linux Output](Cyber-Toolbox-50-Screenshot/osint_info_gaterer_kaali.png) |
+| 27 | OSINT Info Gatherer | ![Windows Output](Cyber-Toolbox-50-Screenshot/osint_info_gatherer_window.png) | ![Kali Linux Output](Cyber-Toolbox-50-Screenshot/osint_info_gatherer_kaali.png) |
 | 28 | Password Strength Check | ![Windows Output](Cyber-Toolbox-50-Screenshot/password_strength_check_window.png) | ![Kali Linux Output](Cyber-Toolbox-50-Screenshot/password_strength_check_kaali.png) |
 | 29 | Phishing URL Detector | ![Windows Output](Cyber-Toolbox-50-Screenshot/phishing_url_detector_window.png) | ![Kali Linux Output](Cyber-Toolbox-50-Screenshot/phishing_url_detector_kaali.png) |
 | 30 | Port Scanner | ![Windows Output](Cyber-Toolbox-50-Screenshot/port_scanner_window.png) | ![Kali Linux Output](Cyber-Toolbox-50-Screenshot/port_scanner_kaali_screenshot.png) |
