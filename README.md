@@ -9,7 +9,7 @@ A comprehensive collection of 47 cybersecurity, network reconnaissance, security
 | 1 | API Security Tester | ![Windows Output](Cyber-Toolbox-50-Screenshot/api_security_tester_window.png) | ![Kali Linux Output](Cyber-Toolbox-50-Screenshot/api_security_tester_kaali.png) |
 | 2 | ARP Network Discovery Tool | ![Windows Output](Cyber-Toolbox-50-Screenshot/arp_network_discovery_tool_window.png) | ![Kali Linux Output](Cyber-Toolbox-50-Screenshot/arp_network_discovery_tool_kaali.png) |
 | 3 | Asset Inventory Scanner | ![Windows Output](Cyber-Toolbox-50-Screenshot/asset_inventory_scanner_window.png) | ![Kali Linux Output](Cyber-Toolbox-50-Screenshot/asset_inventory_scanner_kaali.png) |
-| 4 | Banner Grabber | ![Windows Output](Cyber-Toolbox-50-Screenshot/banner_grabber_window.png) | ![Kali Linux Output](Cyber-Toolbox-50-Screenshot/banner_grabber_kaali_screenshot.png) |
+| 4 | Banner Grabber | ![Windows Output](Cyber-Toolbox-50-Screenshot/banner_grabber_window_.png) | ![Kali Linux Output](Cyber-Toolbox-50-Screenshot/banner_grabber_kaali_screenshot.png) |
 | 5 | Broken Link Scanner | ![Windows Output](Cyber-Toolbox-50-Screenshot/broken_link_scanner_window.png) | ![Kali Linux Output](Cyber-Toolbox-50-Screenshot/broken_link_scanner_kaali.png) |
 | 6 | Cloud Configuration Auditor | ![Windows Output](Cyber-Toolbox-50-Screenshot/cloud_cofiguration_auditor_window.png) | ![Kali Linux Output](Cyber-Toolbox-50-Screenshot/cloud_configuration_auditor_kaali.png) |
 | 7 | CMS Detector | ![Windows Output](Cyber-Toolbox-50-Screenshot/cms_scanner_window.png) | ![Kali Linux Output](Cyber-Toolbox-50-Screenshot/cms_scanner_kaali.png) |
