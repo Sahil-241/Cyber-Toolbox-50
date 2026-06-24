@@ -98,7 +98,7 @@ Cyber-Toolbox-50 ko 7 logical security domains mein divide kiya gaya hai:
 * `port_scanner.py` - High-speed custom multi-port mapping utility.
 * `whois_lookup.py` - Retrieves ownership registry information for assets.
 
-### 🕸️ Web and API Security
+### 4. 🕸️ Web and API Security
 * `api_security_tester.py` - Evaluates API endpoint weaknesses and authentication.
 * `banner_grabber.py` - Pulls service banners to discover target software versions.
 * `broken_link_scanner.py` - Finds dead hyperlinks to mitigate broken link hijacking.
@@ -134,6 +134,6 @@ Cyber-Toolbox-50 ko 7 logical security domains mein divide kiya gaya hai:
 ## 🚀 How to Run the Toolkit
 
 1. **Clone the repository:**
-```bash
+   ```bash
    git clone [https://github.com/Sahil-241/Cyber-Toolbox-50.git](https://github.com/Sahil-241/Cyber-Toolbox-50.git)
    cd Cyber-Toolbox-50
