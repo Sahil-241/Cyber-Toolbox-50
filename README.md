@@ -52,4 +52,8 @@ A comprehensive collection of 47 cybersecurity, network reconnaissance, security
 | 44 | Web Security Header Checker | ![Windows Output](Cyber-Toolbox-50-Screenshot/web_security_header_checker_window.png) | ![Kali Linux Output](Cyber-Toolbox-50-Screenshot/web_security_header_checker_kaali.png) |
 | 45 | Website Tech Detector | ![Windows Output](Cyber-Toolbox-50-Screenshot/website_tech_detector_window.png) | ![Kali Linux Output](Cyber-Toolbox-50-Screenshot/website_tech_detector_kaali.png) |
 | 46 | Website Uptime Monitor | ![Windows Output](Cyber-Toolbox-50-Screenshot/website_uptime_monitor_window.png) | ![Kali Linux Output](Cyber-Toolbox-50-Screenshot/website_uptime_monitor_kaali.png) |
+<<<<<<< HEAD
 | 47 | WHOIS Lookup | ![Windows Output](Cyber-Toolbox-50-Screenshot/whois_lookup_window.png) | ![Kali Linux Output](Cyber-Toolbox-50-Screenshot/whois_lookup_kaali.png) |
+=======
+| 47 | WHOIS Lookup | ![Windows Output](Cyber-Toolbox-50-Screenshot/whois_lookup_window.png) | ![Kali Linux Output](Cyber-Toolbox-50-Screenshot/whois_lookup_kaali.png) |
+>>>>>>> d80b3a78675af029937d1d3c8396e4d564c0d1e4
