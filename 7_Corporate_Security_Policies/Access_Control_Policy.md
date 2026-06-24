@@ -53,4 +53,4 @@ To keep things secure, our organization strictly follows two golden rules:
 
 ## 5. Compliance & Monitoring
 * **Unused Accounts:** Jo accounts 90 din tak login nahi honge, unhe active directory scripts automatic disable kar dengi.
-* **Violations:** Kisi dusre employee ka password use karke login karna Security Violation mana jayega aur sidhe HR termination tak ki carwayi ho sakti hai.
+* **Violations:** Kisi dusre employee ka password use karke login karna Security Violation mana jayega aur sidhe HR termination tak ki karwayi ho sakti hai.
