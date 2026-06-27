@@ -130,10 +130,21 @@ Cyber-Toolbox-50 ko 7 logical security domains mein divide kiya gaya hai:
 * `Password_and_MFA_Policy.md` - Access control protocols, password rules, and MFA mandates.
 
 ---
+## 🚀 Getting Started
 
-## 🚀 How to Run the Toolkit
+### Prerequisites
+Is toolkit ko run karne ke liye aapke system mein ye cheezein honi chahiye:
+* **Python 3.x** install hona chahiye.
+* Zaruri libraries install karne ke liye terminal mein ye command chalayein:
+  ```bash
+ pip install -r requirements.txt
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/Sahil-241/Cyber-Toolbox-50.git](https://github.com/Sahil-241/Cyber-Toolbox-50.git)
-   cd Cyber-Toolbox-50
+How to Run
+1. Clone the repository:
+  git clone [https://github.com/Sahil-241/Cyber-Toolbox-50](https://github.com/Sahil-241/Cyber-Toolbox-50)
+
+2.Navigate to the folder:
+cd Cyber-Toolbox-50
+
+3.Execute a tool:
+python 1_GRC_and_Compliance_Automation/asset_inventory_scanner.py
